@@ -18,5 +18,5 @@ pytest-ordering = "*"
 python_version = "3.13"
 
 [scripts]
-start="python src/app.py"
+start="python app.py"
 test="pytest --testdox --color=yes"
